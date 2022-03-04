@@ -1,0 +1,32 @@
+body{
+    background-color: magenta;
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.name_of_object
+{
+    color: black;
+    font-size: larger;
+}
+
+#camera 
+{
+    width: 350px;
+    height: 300px;
+    border: 5px dashed orange;
+    border-radius: 15px;
+}
+
+#result_object_name,#result_object_accuracy
+{
+    color: chocolate;
+}
